@@ -1,0 +1,57 @@
+about:
+  description: Conan - The open-source C and C++ package manager
+  license: MIT
+  homepage: https://conan.io
+  head: 5a782d9
+  archived: false
+  latestVersion: 2.32.0
+  collectedAt: 2026-09-01T05:18:59Z
+timeline:
+  created: 2015-12-01
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 9498
+  watcher: 131
+  fork: 1122
+  release: 331
+  contributor: 441
+  pullRequest: 1054
+  issue: 12458
+language:
+  Python: 7763453
+  Dockerfile: 326
+totalLine: 7763779
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 2
+    mergedPR: 22
+    openPR: 16
+    closedIssue: 16
+    openIssue: 9
+    commit: 24
+  last90d:
+    since: 2026-06-03
+    release: 6
+    mergedPR: 103
+    openPR: 29
+    closedIssue: 78
+    openIssue: 22
+    commit: 122
+  last180d:
+    since: 2026-03-05
+    release: 12
+    mergedPR: 231
+    openPR: 35
+    closedIssue: 238
+    openIssue: 28
+    commit: 256
+  last360d:
+    since: 2025-09-06
+    release: 23
+    mergedPR: 474
+    openPR: 45
+    closedIssue: 699
+    openIssue: 79
+    commit: 523
