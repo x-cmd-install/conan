@@ -7,13 +7,13 @@ about:
   head: e42971d
   archived: false
   latestVersion: 2.32.0
-  collectedAt: 2026-09-04T19:52:36Z
+  collectedAt: 2026-09-04T20:54:46Z
 timeline:
   created: 2015-12-01
   lastCommit: 2026-09-03
   lastRelease: 2026-08-31
 popularity:
-  star: 9502
+  star: 9503
   watcher: 132
   fork: 1123
   release: 331
@@ -81,6 +81,64 @@ total:
   openIssue: 415
   commit: 9916
 ---
+path: /home/runner/.x-repo/github.com/conan-io/conan
+collectedAt: 2026-09-04T20:54:49Z
+loc:
+  Python:
+    code: 163844
+    comments: 6914
+    blanks: 23399
+    files: 1099
+  MsBuild:
+    code: 25
+    comments: 0
+    blanks: 0
+    files: 2
+  ForgeConfig:
+    code: 12
+    comments: 0
+    blanks: 1
+    files: 1
+  Dockerfile:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  Yaml:
+    code: 11
+    comments: 2
+    blanks: 0
+    files: 1
+  Ini:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Autoconf:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 179
+    blanks: 93
+    files: 3
+  Text:
+    code: 0
+    comments: 60
+    blanks: 7
+    files: 9
+total:
+  code: 163952
+  comments: 7155
+  blanks: 23504
+  files: 1119
 ---
 date: "2026-08-24"
 repo:
