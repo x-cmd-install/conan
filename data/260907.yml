@@ -2,90 +2,90 @@ about:
   description: "Conan - The open-source C and C++ package manager"
   license: MIT
   homepage: https://conan.io
-  head: e42971d
+  head: 22d18a3
   archived: false
   latestVersion: "2.32.0"
-  collectedAt: 2026-09-07T05:39:37Z
+  collectedAt: 2026-09-07T18:51:33Z
 timeline:
   created: 2015-12-01
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-31
 popularity:
-  star: 9506
+  star: 9507
   watcher: 133
   fork: 1125
   release: 331
-  contributor: 441
-  pullRequest: 7360
-  issue: 12467
+  contributor: 442
+  pullRequest: 7362
+  issue: 12469
 language:
-  Python: 7765064
+  Python: 7768930
   Dockerfile: 326
-totalBytes: 7765390
+totalBytes: 7769256
 recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 16
-    openPR: 18
-    closedIssue: 18
+    mergedPR: 18
+    openPR: 16
+    closedIssue: 20
     openIssue: 12
-    commit: 23
+    commit: 25
   last60d:
     since: 2026-07-09
     release: 4
-    mergedPR: 61
-    openPR: 28
-    closedIssue: 42
+    mergedPR: 63
+    openPR: 26
+    closedIssue: 44
     openIssue: 17
-    commit: 72
+    commit: 74
   last90d:
     since: 2026-06-09
     release: 6
-    mergedPR: 96
-    openPR: 35
-    closedIssue: 75
+    mergedPR: 98
+    openPR: 33
+    closedIssue: 77
     openIssue: 25
-    commit: 114
+    commit: 116
   last180d:
     since: 2026-03-11
     release: 11
-    mergedPR: 224
-    openPR: 40
-    closedIssue: 233
+    mergedPR: 226
+    openPR: 38
+    closedIssue: 235
     openIssue: 32
-    commit: 247
+    commit: 249
   last360d:
     since: 2025-09-12
     release: 23
-    mergedPR: 462
-    openPR: 51
-    closedIssue: 686
+    mergedPR: 464
+    openPR: 49
+    closedIssue: 688
     openIssue: 81
-    commit: 518
+    commit: 520
   last720d:
     since: 2024-09-17
     release: 52
-    mergedPR: 998
-    openPR: 63
-    closedIssue: 1810
+    mergedPR: 1000
+    openPR: 61
+    closedIssue: 1812
     openIssue: 156
-    commit: 1388
+    commit: 1390
 total:
   release: 331
-  mergedPR: 6300
-  openPR: 73
-  closedIssue: 12051
+  mergedPR: 6302
+  openPR: 71
+  closedIssue: 12053
   openIssue: 416
-  commit: 9916
+  commit: 9918
 ---
 path: /home/runner/.x-repo/github.com/conan-io/conan
-collectedAt: 2026-09-07T05:39:43Z
+collectedAt: 2026-09-07T18:51:41Z
 loc:
   Python:
-    code: 163844
-    comments: 6914
-    blanks: 23399
+    code: 163912
+    comments: 6920
+    blanks: 23404
     files: 1099
   MsBuild:
     code: 25
@@ -133,9 +133,9 @@ loc:
     blanks: 7
     files: 9
 total:
-  code: 163952
-  comments: 7155
-  blanks: 23504
+  code: 164020
+  comments: 7161
+  blanks: 23509
   files: 1119
 ---
 date: "2026-09-07"
@@ -340,7 +340,7 @@ checks:
       - 'Warn: 0 commits out of 27 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:39:44+00:00
+  collectedAt: 2026-09-07T18:51:42+00:00
   platform:
     darwin/arm64:
       name:  conan-2.32.0-macos-arm64.tgz
