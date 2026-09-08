@@ -5,7 +5,7 @@ about:
   head: 22d18a3
   archived: false
   latestVersion: "2.32.0"
-  collectedAt: 2026-09-08T02:52:09Z
+  collectedAt: 2026-09-08T05:30:50Z
 timeline:
   created: 2015-12-01
   lastCommit: 2026-09-07
@@ -80,7 +80,7 @@ total:
   commit: 9918
 ---
 path: /home/runner/.x-repo/github.com/conan-io/conan
-collectedAt: 2026-09-08T02:52:17Z
+collectedAt: 2026-09-08T05:31:00Z
 loc:
   Python:
     code: 163912
