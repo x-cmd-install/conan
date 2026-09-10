@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 23103474,
       "digest": "sha256:78e3f1ce8613f8ca67ca4f9bb90abe9029885eea1272c7f10d98b106cf9f4a9b",
-      "download_count": 209,
+      "download_count": 210,
       "created_at": "2026-08-31T11:20:54Z",
       "updated_at": "2026-08-31T11:20:55Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-amd64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 27682366,
       "digest": "sha256:b99431cb9bea48b5a1b5b5415f003ef509e92f4d0dd62f4ca21f2209f4e85eb6",
-      "download_count": 269,
+      "download_count": 270,
       "created_at": "2026-08-31T11:20:59Z",
       "updated_at": "2026-08-31T11:21:00Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-linux-x86_64.tgz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 15502049,
       "digest": "sha256:cd7fad7a724b780add41ca9acdde37095a1d84331938a4d6b95da4bbeb590c65",
-      "download_count": 1143,
+      "download_count": 1146,
       "created_at": "2026-08-31T11:21:12Z",
       "updated_at": "2026-08-31T11:21:13Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-x86_64-installer.exe"
