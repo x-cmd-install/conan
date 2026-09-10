@@ -7,7 +7,7 @@ about:
   latestVersion: "2.32.0"
   latestRelease: "2.32.0"
   latestPrerelease: "2.0.0-beta10"
-  collectedAt: 2026-09-10T17:40:22Z
+  collectedAt: 2026-09-10T21:32:38Z
 timeline:
   created: 2015-12-01
   lastCommit: 2026-09-10
@@ -84,7 +84,7 @@ total:
   commit: 9924
 ---
 path: /home/runner/.x-repo/github.com/conan-io/conan
-collectedAt: 2026-09-10T17:40:28Z
+collectedAt: 2026-09-10T21:32:46Z
 loc:
   Python:
     code: 164040

@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 23103474,
       "digest": "sha256:78e3f1ce8613f8ca67ca4f9bb90abe9029885eea1272c7f10d98b106cf9f4a9b",
-      "download_count": 208,
+      "download_count": 209,
       "created_at": "2026-08-31T11:20:54Z",
       "updated_at": "2026-08-31T11:20:55Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 22628056,
       "digest": "sha256:b7f5e5d012b361bb4ac88bfffa1d5cc8a19e8c551cdb379adfb5a3fb1d407bf8",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-08-31T11:20:57Z",
       "updated_at": "2026-08-31T11:20:58Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-arm64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 27682366,
       "digest": "sha256:b99431cb9bea48b5a1b5b5415f003ef509e92f4d0dd62f4ca21f2209f4e85eb6",
-      "download_count": 265,
+      "download_count": 269,
       "created_at": "2026-08-31T11:20:59Z",
       "updated_at": "2026-08-31T11:21:00Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-linux-x86_64.tgz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 14187408,
       "digest": "sha256:721a524e1e8c179ad171d88ebf75bccf8efee2907db8bbbdf407e2b2a712be95",
-      "download_count": 86,
+      "download_count": 87,
       "created_at": "2026-08-31T11:21:08Z",
       "updated_at": "2026-08-31T11:21:09Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-i686-installer.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 15502049,
       "digest": "sha256:cd7fad7a724b780add41ca9acdde37095a1d84331938a4d6b95da4bbeb590c65",
-      "download_count": 1133,
+      "download_count": 1143,
       "created_at": "2026-08-31T11:21:12Z",
       "updated_at": "2026-08-31T11:21:13Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-x86_64-installer.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 15886302,
       "digest": "sha256:cd579d5a1af72905efde23ec93b6b6c73f013477ca5fde618eb213fe971a7690",
-      "download_count": 382,
+      "download_count": 385,
       "created_at": "2026-08-31T11:21:15Z",
       "updated_at": "2026-08-31T11:21:15Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-x86_64.zip"
@@ -546,11 +546,11 @@
   "body": "- Feature: Add basic LoongArch64 architecture support and host detection. (https://github.com/conan-io/conan/pull/20288)\r\n- Feature: Add support for `Xcode 26.6`. (https://github.com/conan-io/conan/pull/20280)\r\n- Feature: Add support for `gcc 16.2`. (https://github.com/conan-io/conan/pull/20280)\r\n- Feature: Parse reference attributes from `--ref` in `workspace add`. (https://github.com/conan-io/conan/pull/20269)\r\n- Feature: Add ``raise_on_errors=True`` arg to ``CommandAPI.run``, it now raises on all errors returned by commands. (https://github.com/conan-io/conan/pull/20266)\r\n- Feature: `XcodeToolchain` now accepts arbitrary extra xcconfig settings via `tc.build_settings`, for build settings with no dedicated conf. (https://github.com/conan-io/conan/pull/20256). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4524)\r\n- Feature: ``conan workspace open`` with no arguments will read the ``conanws`` file and try to open the defined references there into their respective folders if they are not present. (https://github.com/conan-io/conan/pull/20247). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4529)\r\n- Feature: ``conan workspace open`` and ``conan workspace add --ref`` learned a new ``--folder`` argument to indicate the relative location wrt the workspace root for the cloning of the repository. (https://github.com/conan-io/conan/pull/20247). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4529)\r\n- Feature: Add `architecture_bits` build helper to detect when the target architecture is 64-bit. (https://github.com/conan-io/conan/pull/20246). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4522)\r\n- Feature: Compute `CMAKE_Swift_COMPILER_TARGET` in `CMakeToolchain` for Apple Swift cross-builds. (https://github.com/conan-io/conan/pull/20243). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4515)\r\n- Feature: Add `recipe_metadata()`/`package_metadata()` API to download metadata to a user folder. (https://github.com/conan-io/conan/pull/20240). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4514)\r\n- Feature: Improve ``source`` step output. (https://github.com/conan-io/conan/pull/20234)\r\n- Feature: Make `conan report diff -f=html` use a dark theme by default. (https://github.com/conan-io/conan/pull/20229)\r\n- Feature: Add `package_type_traits` attribute to force requirement traits by `package_type` (`run` only for now). (https://github.com/conan-io/conan/pull/20228). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4526)\r\n- Feature: Add `--ref` argument to `conan editable add <path>` as a shortcut to define name, version, etc. (https://github.com/conan-io/conan/pull/20218)\r\n- Feature: Feature: Allow `copy()` to accept multiple patterns, also used by `exports`/`exports_sources`, for speedup. (https://github.com/conan-io/conan/pull/20217). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4512)\r\n- Feature: Add `qbs_file_name` property to override the generated Qbs module name and avoid collisions. (https://github.com/conan-io/conan/pull/20215). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4520)\r\n- Feature: Allow `conan run` without a conanfile to run executables from the profile's `[tool_requires]`. (https://github.com/conan-io/conan/pull/20214). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4511)\r\n- Feature: Rework the `conan graph build-order` HTML formatter with search and full offline support. (https://github.com/conan-io/conan/pull/20174)\r\n- Feature: Populate the download cache with uploaded artifacts if `core.download:download_cache` is set. (https://github.com/conan-io/conan/pull/20163). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4518)\r\n- Feature: Accept CMake 4.4 `--preset-file` presets generated outside the CMake root. (https://github.com/conan-io/conan/pull/20158). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4528)\r\n- Feature: Add `!settings.build_type` syntax to exclude `build_type` from `cmake_layout`'s `build_folder_vars`. (https://github.com/conan-io/conan/pull/17331). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4527)\r\n- Fix: Do not force `CONFIG` requires for transitive dependencies in `CMakeConfigDeps`. (https://github.com/conan-io/conan/pull/20283)\r\n- Fix: Correct a typo in the CycloneDX component recipe revision. (https://github.com/conan-io/conan/pull/20271)\r\n- Fix: Failed creates in ``workspace`` subcommands now raise errors as expected. (https://github.com/conan-io/conan/pull/20266)\r\n- Fix: Add support for python requires in remotes for `conan workspace create`. (https://github.com/conan-io/conan/pull/20265)\r\n- Fix: Add support for lockfile reading in `conan source` for Python requires. (https://github.com/conan-io/conan/pull/20264)\r\n- Fix: Generate valid CycloneDX SBOMs for recipes without a `description` attribute. (https://github.com/conan-io/conan/pull/20263)\r\n- Fix: Match the `dll.a` extension (MinGW) in `deduce_full_cpp_info`. (https://github.com/conan-io/conan/pull/20259)\r\n- Fix: Make `test_linker_script` test resilient to the exact linker error text, which changed with Meson >= 1.12. (https://github.com/conan-io/conan/pull/20257)\r\n- Fix: `XcodeToolchain`'s extra flags (`tools.build:cflags/cxxflags/ldflags/defines`) no longer get overwritten when installing more than one configuration for the same project. (https://github.com/conan-io/conan/pull/20255). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4523)\r\n- Fix: Correct filename parsing in `conan report diff -f=html` for non-ASCII filenames. (https://github.com/conan-io/conan/pull/20229)\r\n- Fix: Remove the Vigenère cipher used to store JWTs, since it provided no real security benefit. (https://github.com/conan-io/conan/pull/20227)\r\n- Fix: Improve `copy()` performance when using lists of patterns. (https://github.com/conan-io/conan/pull/20226)\r\n- Fix: Warn when `tools.build:compiler_executables` keys are unknown or unused by `CMakeToolchain`/`AutotoolsToolchain`. (https://github.com/conan-io/conan/pull/20219). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4513)\r\n- Fix: Add `objc`, `objcpp` and `asm` as `tools.build:compiler_executables` for `AutotoolsToolchain`. (https://github.com/conan-io/conan/pull/20219). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4513)\r\n- Fix: Make `conan lock upgrade-config`'s `path` argument point to a `conanconfig.yml` file, not a `conanfile.py`. (https://github.com/conan-io/conan/pull/20208). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4510)\r\n- Fix: Remove the deprecated `--order-by` behavior and empty version ranges, as planned for Conan 2.32. (https://github.com/conan-io/conan/pull/20207). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4517)\r\n- Bugfix: intel-cc default compilers on Windows. Classic mode now defaults to `icl` (not `icc`/`icpc`), icx mode to `icx` (not `icx-cl`, which is absent in older oneAPI), and CMakeToolchain now honors `CC`/`CXX` from `[buildenv]` over the hard-coded defaults. (https://github.com/conan-io/conan/pull/20233)\r\n- Bugfix: Keep the local recipe index cache folder when `conan remote add` fails on a duplicate without `--force`. (https://github.com/conan-io/conan/pull/20210)\r\n- Bugfix: Make `CMakeConfigDeps` generate common files only for the host context, avoiding lost CMake variables. (https://github.com/conan-io/conan/pull/20198)",
   "reactions": {
     "url": "https://api.github.com/repos/conan-io/conan/releases/379696496/reactions",
-    "total_count": 6,
+    "total_count": 7,
     "+1": 3,
     "-1": 0,
     "laugh": 0,
-    "hooray": 3,
+    "hooray": 4,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
