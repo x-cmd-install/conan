@@ -48,7 +48,7 @@ x install conan
 
 ## 流行度
 
-- **Star**: 9,512 · **Fork**: 1,125 · **开放 issue**: 12,474 · **贡献者**: 442
+- **Star**: 9,512 · **Fork**: 1,126 · **开放 issue**: 12,474 · **贡献者**: 442
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install conan
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 18 | 17 | 20 | 11 | 33 |
-| last60d | 2026-07-15 | 4 | 62 | 28 | 44 | 15 | 82 |
-| 90d | 2026-06-15 | 5 | 100 | 35 | 78 | 22 | 124 |
-| last180d | 2026-03-17 | 11 | 227 | 40 | 229 | 31 | 257 |
-| 360d | 2025-09-18 | 23 | 466 | 51 | 676 | 77 | 528 |
-| last720d | 2024-09-23 | 52 | 1000 | 63 | 1792 | 154 | 1392 |
+| 30d | 2026-08-15 | 1 | 18 | 17 | 20 | 11 | 26 |
+| last60d | 2026-07-16 | 4 | 61 | 28 | 44 | 14 | 70 |
+| 90d | 2026-06-16 | 5 | 99 | 35 | 78 | 22 | 117 |
+| last180d | 2026-03-18 | 11 | 226 | 40 | 226 | 31 | 250 |
+| 360d | 2025-09-19 | 23 | 465 | 51 | 672 | 77 | 511 |
+| last720d | 2024-09-24 | 52 | 996 | 63 | 1787 | 154 | 1388 |
 
 ## Release 资产
 
@@ -84,17 +84,6 @@ x install conan
 | [conan-2.32.0-windows-x86_64-installer.exe](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-x86_64-installer.exe) | 14.8 MiB | `native/win/x64` |
 | [conan-2.32.0-windows-x86_64.zip](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/conan) 上共有 **328** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**24** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.32.0` | ✅ latest |
-| Fedora rawhide | `2.32.0` | ✅ latest |
-| Nix unstable | `2.32.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.29.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 conan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `conan` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -104,4 +93,4 @@ conan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:40:01Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:49:09Z._

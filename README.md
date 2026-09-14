@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,512 · **Forks**: 1,125 · **Open issues**: 12,474 · **Contributors**: 442
+- **Stars**: 9,512 · **Forks**: 1,126 · **Open issues**: 12,474 · **Contributors**: 442
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 18 | 17 | 20 | 11 | 33 |
-| last60d | 2026-07-15 | 4 | 62 | 28 | 44 | 15 | 82 |
-| 90d | 2026-06-15 | 5 | 100 | 35 | 78 | 22 | 124 |
-| last180d | 2026-03-17 | 11 | 227 | 40 | 229 | 31 | 257 |
-| 360d | 2025-09-18 | 23 | 466 | 51 | 676 | 77 | 528 |
-| last720d | 2024-09-23 | 52 | 1000 | 63 | 1792 | 154 | 1392 |
+| 30d | 2026-08-15 | 1 | 18 | 17 | 20 | 11 | 26 |
+| last60d | 2026-07-16 | 4 | 61 | 28 | 44 | 14 | 70 |
+| 90d | 2026-06-16 | 5 | 99 | 35 | 78 | 22 | 117 |
+| last180d | 2026-03-18 | 11 | 226 | 40 | 226 | 31 | 250 |
+| 360d | 2025-09-19 | 23 | 465 | 51 | 672 | 77 | 511 |
+| last720d | 2024-09-24 | 52 | 996 | 63 | 1787 | 154 | 1388 |
 
 ## Release assets
 
@@ -84,17 +84,6 @@ Lowest-scoring checks:
 | [conan-2.32.0-windows-x86_64-installer.exe](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-x86_64-installer.exe) | 14.8 MiB | `native/win/x64` |
 | [conan-2.32.0-windows-x86_64.zip](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **328** distros on [repology.org](https://repology.org/project/conan). **9** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.32.0` | ✅ latest |
-| Fedora rawhide | `2.32.0` | ✅ latest |
-| Nix unstable | `2.32.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.29.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `conan` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -104,4 +93,4 @@ Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:40:01Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:49:08Z._
