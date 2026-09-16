@@ -26,13 +26,13 @@ x install conan
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.4 / 10**
+总评分: **5.6 / 10**
 
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install conan
 
 ## 流行度
 
-- **Star**: 9,512 · **Fork**: 1,126 · **开放 issue**: 12,474 · **贡献者**: 442
+- **Star**: 9,513 · **Fork**: 1,126 · **开放 issue**: 12,475 · **贡献者**: 442
 
 ## 累计统计
 
-- **发布数**: 331 · **已合并 PR**: 6310 · **开放 PR**: 73 · **已关闭 issue**: 12059 · **开放 issue**: 415 · **提交数**: 9926
+- **发布数**: 331 · **已合并 PR**: 6310 · **开放 PR**: 73 · **已关闭 issue**: 12059 · **开放 issue**: 416 · **提交数**: 9926
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 18 | 17 | 19 | 11 | 26 |
-| last60d | 2026-07-17 | 4 | 59 | 28 | 44 | 14 | 70 |
-| 90d | 2026-06-17 | 5 | 97 | 35 | 75 | 22 | 117 |
-| last180d | 2026-03-19 | 11 | 225 | 40 | 220 | 31 | 250 |
-| 360d | 2025-09-20 | 23 | 465 | 51 | 672 | 77 | 511 |
-| last720d | 2024-09-25 | 52 | 995 | 63 | 1782 | 154 | 1379 |
+| 30d | 2026-08-17 | 1 | 16 | 16 | 19 | 12 | 26 |
+| last60d | 2026-07-18 | 4 | 59 | 28 | 44 | 15 | 70 |
+| 90d | 2026-06-18 | 5 | 95 | 35 | 73 | 23 | 117 |
+| last180d | 2026-03-20 | 11 | 224 | 40 | 218 | 32 | 250 |
+| 360d | 2025-09-21 | 23 | 465 | 51 | 671 | 78 | 511 |
+| last720d | 2024-09-26 | 52 | 993 | 63 | 1779 | 155 | 1378 |
 
 ## Release 资产
 
@@ -93,4 +93,4 @@ conan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T05:52:06Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T06:04:36Z._

@@ -26,13 +26,13 @@ Total: **164,513** lines of code across **1104** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.4 / 10**
+Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,512 · **Forks**: 1,126 · **Open issues**: 12,474 · **Contributors**: 442
+- **Stars**: 9,513 · **Forks**: 1,126 · **Open issues**: 12,475 · **Contributors**: 442
 
 ## Totals (cumulative)
 
-- **Releases**: 331 · **Merged PRs**: 6310 · **Open PRs**: 73 · **Closed issues**: 12059 · **Open issues**: 415 · **Commits**: 9926
+- **Releases**: 331 · **Merged PRs**: 6310 · **Open PRs**: 73 · **Closed issues**: 12059 · **Open issues**: 416 · **Commits**: 9926
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 18 | 17 | 19 | 11 | 26 |
-| last60d | 2026-07-17 | 4 | 59 | 28 | 44 | 14 | 70 |
-| 90d | 2026-06-17 | 5 | 97 | 35 | 75 | 22 | 117 |
-| last180d | 2026-03-19 | 11 | 225 | 40 | 220 | 31 | 250 |
-| 360d | 2025-09-20 | 23 | 465 | 51 | 672 | 77 | 511 |
-| last720d | 2024-09-25 | 52 | 995 | 63 | 1782 | 154 | 1379 |
+| 30d | 2026-08-17 | 1 | 16 | 16 | 19 | 12 | 26 |
+| last60d | 2026-07-18 | 4 | 59 | 28 | 44 | 15 | 70 |
+| 90d | 2026-06-18 | 5 | 95 | 35 | 73 | 23 | 117 |
+| last180d | 2026-03-20 | 11 | 224 | 40 | 218 | 32 | 250 |
+| 360d | 2025-09-21 | 23 | 465 | 51 | 671 | 78 | 511 |
+| last720d | 2024-09-26 | 52 | 993 | 63 | 1779 | 155 | 1378 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:52:05Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:04:36Z._
