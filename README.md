@@ -4,7 +4,7 @@
 
 Conan - The open-source C and C++ package manager
 
-![conan](https://repo.x-cmd.io/conan.svg)
+[![x-cmd/install — conan Code Quality Monitoring Repo Card](https://repo.x-cmd.io/conan.svg)](https://x-cmd.com/install/conan)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,516 · **Forks**: 1,129 · **Open issues**: 12,477 · **Contributors**: 443
+- **Stars**: 9,521 · **Forks**: 1,129 · **Open issues**: 12,477 · **Contributors**: 443
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 15 | 15 | 19 | 12 | 27 |
-| last60d | 2026-07-20 | 4 | 57 | 29 | 43 | 15 | 71 |
-| 90d | 2026-06-20 | 5 | 95 | 36 | 72 | 23 | 118 |
-| last180d | 2026-03-22 | 11 | 225 | 41 | 220 | 32 | 251 |
-| 360d | 2025-09-23 | 23 | 461 | 52 | 671 | 76 | 512 |
-| last720d | 2024-09-28 | 52 | 993 | 64 | 1777 | 155 | 1375 |
+| 30d | 2026-08-21 | 1 | 14 | 15 | 19 | 11 | 27 |
+| last60d | 2026-07-22 | 4 | 51 | 29 | 40 | 15 | 71 |
+| 90d | 2026-06-22 | 5 | 94 | 35 | 72 | 21 | 118 |
+| last180d | 2026-03-24 | 11 | 221 | 41 | 217 | 32 | 251 |
+| 360d | 2025-09-25 | 23 | 459 | 51 | 664 | 76 | 512 |
+| last720d | 2024-09-30 | 52 | 991 | 64 | 1772 | 155 | 1375 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:40:50Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:43:40Z._
