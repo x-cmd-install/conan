@@ -14,11 +14,11 @@ x install conan
 
 ## Code insight
 
-Total: **166,121** lines of code across **1108** files in the top 5 languages.
+Total: **166,123** lines of code across **1108** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 166,049 | 7,103 | 23,657 | 1103 |
+| Python | 166,051 | 7,103 | 23,657 | 1103 |
 | MsBuild | 25 | 0 | 0 | 2 |
 | ForgeConfig | 12 | 0 | 1 | 1 |
 | Dockerfile | 11 | 0 | 0 | 1 |
@@ -26,7 +26,7 @@ Total: **166,121** lines of code across **1108** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.6 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
@@ -42,47 +42,47 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `2.32.0` (2026-08-31)
-- **Last commit**: 2026-09-28
+- **Latest**: `2.33.0` (2026-09-29)
+- **Last commit**: 2026-09-29
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 9,527 · **Forks**: 1,133 · **Open issues**: 12,481 · **Contributors**: 444
+- **Stars**: 9,529 · **Forks**: 1,133 · **Open issues**: 12,482 · **Contributors**: 444
 
 ## Totals (cumulative)
 
-- **Releases**: 331 · **Merged PRs**: 6331 · **Open PRs**: 63 · **Closed issues**: 12077 · **Open issues**: 404 · **Commits**: 9951
+- **Releases**: 332 · **Merged PRs**: 6332 · **Open PRs**: 62 · **Closed issues**: 12077 · **Open issues**: 405 · **Commits**: 9954
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 30 | 4 | 20 | 4 | 35 |
-| last60d | 2026-07-31 | 2 | 54 | 14 | 42 | 6 | 64 |
-| 90d | 2026-07-01 | 4 | 101 | 21 | 75 | 10 | 120 |
-| last180d | 2026-04-02 | 10 | 231 | 30 | 204 | 20 | 260 |
-| 360d | 2025-10-04 | 22 | 465 | 40 | 655 | 62 | 514 |
-| last720d | 2024-10-09 | 51 | 991 | 53 | 1758 | 142 | 1383 |
+| 30d | 2026-08-31 | 2 | 30 | 5 | 19 | 5 | 38 |
+| last60d | 2026-08-01 | 3 | 54 | 15 | 42 | 7 | 67 |
+| 90d | 2026-07-02 | 5 | 99 | 20 | 72 | 11 | 123 |
+| last180d | 2026-04-03 | 11 | 231 | 30 | 203 | 21 | 263 |
+| 360d | 2025-10-05 | 23 | 466 | 39 | 655 | 63 | 517 |
+| last720d | 2024-10-10 | 52 | 992 | 52 | 1753 | 143 | 1381 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [2.32.0-SHA-256.txt](https://github.com/conan-io/conan/releases/download/2.32.0/2.32.0-SHA-256.txt) | 1.2 KiB | `other` |
-| [2.32.0-SHA-256.txt.asc](https://github.com/conan-io/conan/releases/download/2.32.0/2.32.0-SHA-256.txt.asc) | 659 B | `other` |
-| [conan-2.32.0-amd64.deb](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-amd64.deb) | 22.0 MiB | `other` |
-| [conan-2.32.0-arm64.deb](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-arm64.deb) | 21.6 MiB | `other` |
-| [conan-2.32.0-linux-aarch64.tgz](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-linux-aarch64.tgz) | 26.1 MiB | `native/linux/arm64` |
-| [conan-2.32.0-linux-x86_64.tgz](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-linux-x86_64.tgz) | 26.4 MiB | `native/linux/x64` |
-| [conan-2.32.0-macos-arm64.tgz](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-macos-arm64.tgz) | 15.2 MiB | `native/darwin/arm64` |
-| [conan-2.32.0-macos-x86_64.tgz](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-macos-x86_64.tgz) | 15.7 MiB | `native/darwin/x64` |
-| [conan-2.32.0-windows-arm64-installer.exe](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-arm64-installer.exe) | 14.3 MiB | `native/win/arm64` |
-| [conan-2.32.0-windows-arm64.zip](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-arm64.zip) | 14.8 MiB | `native/win/arm64` |
-| [conan-2.32.0-windows-i686-installer.exe](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-i686-installer.exe) | 13.5 MiB | `native/win/x64` |
-| [conan-2.32.0-windows-i686.zip](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-i686.zip) | 13.5 MiB | `native/win/x64` |
-| [conan-2.32.0-windows-x86_64-installer.exe](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-x86_64-installer.exe) | 14.8 MiB | `native/win/x64` |
-| [conan-2.32.0-windows-x86_64.zip](https://github.com/conan-io/conan/releases/download/2.32.0/conan-2.32.0-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
+| [2.33.0-SHA-256.txt](https://github.com/conan-io/conan/releases/download/2.33.0/2.33.0-SHA-256.txt) | 1.1 KiB | `other` |
+| [2.33.0-SHA-256.txt.asc](https://github.com/conan-io/conan/releases/download/2.33.0/2.33.0-SHA-256.txt.asc) | 659 B | `other` |
+| [conan-2.33.0-amd64.deb](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-amd64.deb) | 22.1 MiB | `other` |
+| [conan-2.33.0-arm64.deb](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-arm64.deb) | 21.6 MiB | `other` |
+| [conan-2.33.0-linux-aarch64.tgz](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-linux-aarch64.tgz) | 26.2 MiB | `native/linux/arm64` |
+| [conan-2.33.0-linux-x86_64.tgz](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-linux-x86_64.tgz) | 26.5 MiB | `native/linux/x64` |
+| [conan-2.33.0-macos-arm64.tgz](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-macos-arm64.tgz) | 15.2 MiB | `native/darwin/arm64` |
+| [conan-2.33.0-macos-x86_64.tgz](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-macos-x86_64.tgz) | 15.7 MiB | `native/darwin/x64` |
+| [conan-2.33.0-windows-arm64-installer.exe](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-arm64-installer.exe) | 14.4 MiB | `native/win/arm64` |
+| [conan-2.33.0-windows-arm64.zip](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-arm64.zip) | 14.9 MiB | `native/win/arm64` |
+| [conan-2.33.0-windows-i686-installer.exe](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-i686-installer.exe) | 13.6 MiB | `native/win/x64` |
+| [conan-2.33.0-windows-i686.zip](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-i686.zip) | 13.5 MiB | `native/win/x64` |
+| [conan-2.33.0-windows-x86_64-installer.exe](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-x86_64-installer.exe) | 14.9 MiB | `native/win/x64` |
+| [conan-2.33.0-windows-x86_64.zip](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -93,4 +93,4 @@ Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:26:02Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:18:29Z._
