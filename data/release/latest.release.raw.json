@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 23168200,
       "digest": "sha256:b49affe108406a34d7947dbcb78b12a8bd4c605968602875aeedd8e30fe28385",
-      "download_count": 13,
+      "download_count": 25,
       "created_at": "2026-09-29T15:13:51Z",
       "updated_at": "2026-09-29T15:13:52Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 22694090,
       "digest": "sha256:fc4465d56c9326c0eb6c0fb56706e559cfc53ef0812846caa680dccd76e21069",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-09-29T15:13:54Z",
       "updated_at": "2026-09-29T15:13:55Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-arm64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 27748292,
       "digest": "sha256:0a78cd312af4b6ef6ea6e5ed7178ee4cfd827f124f2c5fb5b7d56eb4fcd4c132",
-      "download_count": 13,
+      "download_count": 87,
       "created_at": "2026-09-29T15:13:57Z",
       "updated_at": "2026-09-29T15:13:58Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-linux-x86_64.tgz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 15588901,
       "digest": "sha256:6ed82b39c317ca043f45f9a0967f3ebdec669532930c5f12b201c4c3211e6640",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-29T15:14:19Z",
       "updated_at": "2026-09-29T15:14:20Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-arm64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 14261611,
       "digest": "sha256:d2e29c5fb6c0fff4b9f5b2055e345e3e622da0c1a30464a5abc338de932895b0",
-      "download_count": 51,
+      "download_count": 65,
       "created_at": "2026-09-29T15:14:11Z",
       "updated_at": "2026-09-29T15:14:12Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-i686-installer.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 14193447,
       "digest": "sha256:85f46e3444328a283a03503cd3252c1bf103888badefa7fc573e25d38d071a8a",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-09-29T15:14:08Z",
       "updated_at": "2026-09-29T15:14:10Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-i686.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 15577724,
       "digest": "sha256:4cd6c4c519664a7432e2696f9068fe2b5d89f2000a5ece429afd1760fdefb4c7",
-      "download_count": 149,
+      "download_count": 395,
       "created_at": "2026-09-29T15:14:17Z",
       "updated_at": "2026-09-29T15:14:18Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-x86_64-installer.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 15963666,
       "digest": "sha256:39aa6b6d1bf8d92cb40e0f9afcaa7ad7a7467e729c6f8e76cf621f140516d2c5",
-      "download_count": 86,
+      "download_count": 142,
       "created_at": "2026-09-29T15:14:14Z",
       "updated_at": "2026-09-29T15:14:15Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-x86_64.zip"
@@ -546,8 +546,8 @@
   "body": "- Feature: Support for CPS components configurations. (https://github.com/conan-io/conan/pull/20354)\r\n- Feature: Use extra_info to provide CPEs to the component. (https://github.com/conan-io/conan/pull/20353)\r\n- Feature: Download recipe and package metadata in parallel with regular files instead of after them. (https://github.com/conan-io/conan/pull/20351)\r\n- Feature: Add `core.net.http:trust_store` conf to verify HTTPS certs against the OS trust store. (https://github.com/conan-io/conan/pull/20343). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4551)\r\n- Feature: New remotes ``force_auth`` capability. (https://github.com/conan-io/conan/pull/20341). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4550)\r\n- Feature: Add `copy_config_files` to the `[runner]` profile to copy extra host config files into Docker runners. (https://github.com/conan-io/conan/pull/20332). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4549)\r\n- Feature: Support Clang 23. (https://github.com/conan-io/conan/pull/20330)\r\n- Feature: Support Apple OS 27.0. (https://github.com/conan-io/conan/pull/20330)\r\n- Feature: `CMakeConfigDeps.get_cmake_file_name` returns a dict object instead of a string. (https://github.com/conan-io/conan/pull/20300)\r\n- Feature: Allow ``cpp_info.sources``-only packages in CMakeConfigDeps. (https://github.com/conan-io/conan/pull/20297). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4547)\r\n- Fix: Remove support for Python 3.7, EOL since 2024. (https://github.com/conan-io/conan/pull/20357)\r\n- Fix: Error messages inside the `source()`, `generate()` and `package()` steps missing the package reference. (https://github.com/conan-io/conan/pull/20348)\r\n- Fix: Add support for ``CMakeConfigDeps`` for ``cpp_info.objects`` imported object libraries. (https://github.com/conan-io/conan/pull/20347)\r\n- Fix: Do not force ``DebuggerFlavor`` from generated prop files in MsBuildDeps, it's already the default. (https://github.com/conan-io/conan/pull/20340)\r\n- Fix: Only spawn ``min(threads, download_count)`` threads in parallel downloads. (https://github.com/conan-io/conan/pull/20335)\r\n- Fix: Split skipped binaries summary per host/build/test group. (https://github.com/conan-io/conan/pull/20326)\r\n- Fix: Avoid ``CMakeDeps`` generating empty generator expressions, improving performance. (https://github.com/conan-io/conan/pull/20322)\r\n- Fix: Propagate errors from a `.bat` script called by another `.bat` script. (https://github.com/conan-io/conan/pull/20317)\r\n- Fix: Prioritize host and visible nodes in workspace monolithic builds when ambiguity arises. (https://github.com/conan-io/conan/pull/20305). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4546)\r\n- Fix: Implements the `find_package` verbosity level in CMakeConfigDeps. (https://github.com/conan-io/conan/pull/20275)\r\n- Fix: Do not inject a full lockfile due to ``export`` operations. (https://github.com/conan-io/conan/pull/19404)\r\n- Bugfix: Fix `conan graph build-order --update` ignoring the `--update` flag. (https://github.com/conan-io/conan/pull/20356)\r\n- Bugfix: Consider a server revision found via ``--update`` as latest, even if its ``prev`` isn't latest locally. (https://github.com/conan-io/conan/pull/20336)\r\n- Bugfix: Correct computation of ``options`` in the ``conan graph build-order`` command. (https://github.com/conan-io/conan/pull/20331)\r\n- Bugfix: `QbsDeps` dependency names now match `pkg_config_name`/`qbs_file_name`. (https://github.com/conan-io/conan/pull/20329)\r\n- Bugfix: Avoid reporting the cached username when authentication was attempted with a different user. (https://github.com/conan-io/conan/pull/20316)\r\n- Bugfix: Limit propagation of ``cpp_info.sources`` from ``INTERFACE_SOURCES`` to only direct dependencies. (https://github.com/conan-io/conan/pull/20297). Docs: [:page_with_curl:](https://github.com/conan-io/docs/pull/4547)\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/conan-io/conan/releases/399270097/reactions",
-    "total_count": 4,
-    "+1": 2,
+    "total_count": 5,
+    "+1": 3,
     "-1": 0,
     "laugh": 0,
     "hooray": 2,
