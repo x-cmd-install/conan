@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 23168200,
       "digest": "sha256:b49affe108406a34d7947dbcb78b12a8bd4c605968602875aeedd8e30fe28385",
-      "download_count": 25,
+      "download_count": 35,
       "created_at": "2026-09-29T15:13:51Z",
       "updated_at": "2026-09-29T15:13:52Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-amd64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 27422998,
       "digest": "sha256:a12a54c451a72dcf21904794c0090a4f133c9b5dd09ea964a53b51d7c84da94a",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-29T15:14:00Z",
       "updated_at": "2026-09-29T15:14:01Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-linux-aarch64.tgz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 27748292,
       "digest": "sha256:0a78cd312af4b6ef6ea6e5ed7178ee4cfd827f124f2c5fb5b7d56eb4fcd4c132",
-      "download_count": 87,
+      "download_count": 119,
       "created_at": "2026-09-29T15:13:57Z",
       "updated_at": "2026-09-29T15:13:58Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-linux-x86_64.tgz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 15971232,
       "digest": "sha256:f93092efecd504108b5b9571387663c9149367eb0f52f324206d4f7105cc919a",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-29T15:14:03Z",
       "updated_at": "2026-09-29T15:14:04Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-macos-arm64.tgz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 16507098,
       "digest": "sha256:1af3cb5843da2c2fdbc5a3bbd1323d1722c9c3a6125a65ca5510d4598935c7d9",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-29T15:14:06Z",
       "updated_at": "2026-09-29T15:14:07Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-macos-x86_64.tgz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 14261611,
       "digest": "sha256:d2e29c5fb6c0fff4b9f5b2055e345e3e622da0c1a30464a5abc338de932895b0",
-      "download_count": 65,
+      "download_count": 70,
       "created_at": "2026-09-29T15:14:11Z",
       "updated_at": "2026-09-29T15:14:12Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-i686-installer.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 15577724,
       "digest": "sha256:4cd6c4c519664a7432e2696f9068fe2b5d89f2000a5ece429afd1760fdefb4c7",
-      "download_count": 395,
+      "download_count": 570,
       "created_at": "2026-09-29T15:14:17Z",
       "updated_at": "2026-09-29T15:14:18Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-x86_64-installer.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 15963666,
       "digest": "sha256:39aa6b6d1bf8d92cb40e0f9afcaa7ad7a7467e729c6f8e76cf621f140516d2c5",
-      "download_count": 142,
+      "download_count": 172,
       "created_at": "2026-09-29T15:14:14Z",
       "updated_at": "2026-09-29T15:14:15Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-x86_64.zip"
