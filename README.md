@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.33.0` (2026-09-29)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-05
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 9,527 · **Forks**: 1,133 · **Open issues**: 12,484 · **Contributors**: 444
+- **Stars**: 9,528 · **Forks**: 1,134 · **Open issues**: 12,484 · **Contributors**: 444
 
 ## Totals (cumulative)
 
-- **Releases**: 332 · **Merged PRs**: 6337 · **Open PRs**: 64 · **Closed issues**: 12079 · **Open issues**: 405 · **Commits**: 9959
+- **Releases**: 332 · **Merged PRs**: 6337 · **Open PRs**: 64 · **Closed issues**: 12079 · **Open issues**: 405 · **Commits**: 9960
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 32 | 6 | 14 | 3 | 35 |
-| last60d | 2026-08-06 | 2 | 53 | 16 | 41 | 6 | 67 |
-| 90d | 2026-07-07 | 5 | 101 | 22 | 67 | 11 | 121 |
-| last180d | 2026-04-08 | 11 | 223 | 31 | 198 | 20 | 255 |
-| 360d | 2025-10-10 | 23 | 463 | 41 | 635 | 60 | 507 |
-| last720d | 2024-10-15 | 52 | 994 | 54 | 1745 | 143 | 1381 |
+| 30d | 2026-09-06 | 1 | 32 | 6 | 14 | 3 | 0 |
+| last60d | 2026-08-07 | 2 | 51 | 15 | 41 | 6 | 0 |
+| 90d | 2026-07-08 | 5 | 97 | 22 | 66 | 10 | 0 |
+| last180d | 2026-04-09 | 11 | 222 | 31 | 197 | 20 | 0 |
+| 360d | 2025-10-11 | 23 | 463 | 41 | 635 | 60 | 0 |
+| last720d | 2024-10-16 | 52 | 990 | 54 | 1736 | 143 | 1382 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:16:02Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:10:42Z._
