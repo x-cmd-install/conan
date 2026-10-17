@@ -14,11 +14,11 @@ x install conan
 
 ## Code insight
 
-Total: **166,294** lines of code across **1106** files in the top 5 languages.
+Total: **166,331** lines of code across **1106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 166,222 | 7,135 | 23,653 | 1101 |
+| Python | 166,259 | 7,136 | 23,661 | 1101 |
 | MsBuild | 25 | 0 | 0 | 2 |
 | ForgeConfig | 12 | 0 | 1 | 1 |
 | Dockerfile | 11 | 0 | 0 | 1 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,538 · **Forks**: 1,133 · **Open issues**: 12,502 · **Contributors**: 444
+- **Stars**: 9,538 · **Forks**: 1,133 · **Open issues**: 12,503 · **Contributors**: 444
 
 ## Totals (cumulative)
 
-- **Releases**: 332 · **Merged PRs**: 6358 · **Open PRs**: 67 · **Closed issues**: 12094 · **Open issues**: 408 · **Commits**: 9981
+- **Releases**: 332 · **Merged PRs**: 6360 · **Open PRs**: 67 · **Closed issues**: 12098 · **Open issues**: 405 · **Commits**: 9983
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 38 | 9 | 15 | 10 | 54 |
-| last60d | 2026-08-17 | 2 | 62 | 15 | 44 | 14 | 81 |
-| 90d | 2026-07-18 | 5 | 105 | 25 | 70 | 16 | 131 |
-| last180d | 2026-04-19 | 10 | 228 | 34 | 197 | 27 | 266 |
-| 360d | 2025-10-21 | 23 | 464 | 44 | 610 | 62 | 516 |
-| last720d | 2024-10-26 | 51 | 1000 | 57 | 1717 | 147 | 1387 |
+| 30d | 2026-09-17 | 1 | 40 | 9 | 17 | 9 | 56 |
+| last60d | 2026-08-18 | 2 | 62 | 14 | 45 | 12 | 83 |
+| 90d | 2026-07-19 | 5 | 107 | 25 | 73 | 14 | 133 |
+| last180d | 2026-04-20 | 10 | 229 | 34 | 200 | 24 | 268 |
+| 360d | 2025-10-22 | 23 | 465 | 44 | 610 | 59 | 518 |
+| last720d | 2024-10-27 | 51 | 1002 | 57 | 1720 | 144 | 1389 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:14:41Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:58:08Z._
