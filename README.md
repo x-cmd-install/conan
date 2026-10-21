@@ -14,11 +14,11 @@ x install conan
 
 ## Code insight
 
-Total: **166,331** lines of code across **1106** files in the top 5 languages.
+Total: **166,345** lines of code across **1106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 166,259 | 7,136 | 23,661 | 1101 |
+| Python | 166,273 | 7,139 | 23,662 | 1101 |
 | MsBuild | 25 | 0 | 0 | 2 |
 | ForgeConfig | 12 | 0 | 1 | 1 |
 | Dockerfile | 11 | 0 | 0 | 1 |
@@ -26,7 +26,7 @@ Total: **166,331** lines of code across **1106** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.33.0` (2026-09-29)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-20
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 9,540 · **Forks**: 1,133 · **Open issues**: 12,503 · **Contributors**: 444
+- **Stars**: 9,541 · **Forks**: 1,134 · **Open issues**: 12,504 · **Contributors**: 444
 
 ## Totals (cumulative)
 
-- **Releases**: 332 · **Merged PRs**: 6360 · **Open PRs**: 68 · **Closed issues**: 12098 · **Open issues**: 405 · **Commits**: 9983
+- **Releases**: 332 · **Merged PRs**: 6362 · **Open PRs**: 67 · **Closed issues**: 12099 · **Open issues**: 405 · **Commits**: 9985
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 40 | 10 | 17 | 9 | 47 |
-| last60d | 2026-08-21 | 2 | 61 | 14 | 44 | 12 | 75 |
-| 90d | 2026-07-22 | 5 | 98 | 26 | 67 | 14 | 111 |
-| last180d | 2026-04-23 | 10 | 216 | 35 | 191 | 24 | 245 |
-| 360d | 2025-10-25 | 23 | 464 | 45 | 602 | 59 | 510 |
-| last720d | 2024-10-30 | 50 | 994 | 58 | 1701 | 144 | 1376 |
+| 30d | 2026-09-21 | 1 | 41 | 9 | 18 | 9 | 49 |
+| last60d | 2026-08-22 | 2 | 63 | 13 | 45 | 12 | 77 |
+| 90d | 2026-07-23 | 5 | 95 | 24 | 63 | 14 | 113 |
+| last180d | 2026-04-24 | 10 | 218 | 34 | 190 | 23 | 247 |
+| 360d | 2025-10-26 | 23 | 466 | 44 | 603 | 59 | 512 |
+| last720d | 2024-10-31 | 49 | 994 | 57 | 1699 | 144 | 1375 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:39:36Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:23:55Z._
