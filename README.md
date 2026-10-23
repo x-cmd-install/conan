@@ -14,11 +14,11 @@ x install conan
 
 ## Code insight
 
-Total: **166,394** lines of code across **1106** files in the top 5 languages.
+Total: **167,184** lines of code across **1105** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 166,322 | 7,146 | 23,667 | 1101 |
+| Python | 167,112 | 7,190 | 23,705 | 1100 |
 | MsBuild | 25 | 0 | 0 | 2 |
 | ForgeConfig | 12 | 0 | 1 | 1 |
 | Dockerfile | 11 | 0 | 0 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.33.0` (2026-09-29)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 9,541 · **Forks**: 1,134 · **Open issues**: 12,505 · **Contributors**: 444
+- **Stars**: 9,542 · **Forks**: 1,134 · **Open issues**: 12,505 · **Contributors**: 444
 
 ## Totals (cumulative)
 
-- **Releases**: 332 · **Merged PRs**: 6363 · **Open PRs**: 67 · **Closed issues**: 12102 · **Open issues**: 403 · **Commits**: 9986
+- **Releases**: 332 · **Merged PRs**: 6366 · **Open PRs**: 65 · **Closed issues**: 12103 · **Open issues**: 402 · **Commits**: 9989
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 39 | 9 | 17 | 9 | 50 |
-| last60d | 2026-08-23 | 2 | 64 | 13 | 46 | 12 | 78 |
-| 90d | 2026-07-24 | 4 | 94 | 24 | 62 | 14 | 114 |
-| last180d | 2026-04-25 | 10 | 219 | 34 | 191 | 23 | 248 |
-| 360d | 2025-10-27 | 23 | 467 | 44 | 600 | 58 | 513 |
-| last720d | 2024-11-01 | 49 | 995 | 57 | 1701 | 142 | 1375 |
+| 30d | 2026-09-23 | 1 | 41 | 8 | 16 | 9 | 53 |
+| last60d | 2026-08-24 | 2 | 66 | 11 | 44 | 11 | 81 |
+| 90d | 2026-07-25 | 3 | 97 | 22 | 62 | 14 | 117 |
+| last180d | 2026-04-26 | 10 | 222 | 32 | 191 | 23 | 251 |
+| 360d | 2025-10-28 | 23 | 470 | 42 | 597 | 57 | 516 |
+| last720d | 2024-11-02 | 49 | 997 | 55 | 1701 | 141 | 1378 |
 
 ## Release assets
 
@@ -84,6 +84,17 @@ Lowest-scoring checks:
 | [conan-2.33.0-windows-x86_64-installer.exe](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-x86_64-installer.exe) | 14.9 MiB | `native/win/x64` |
 | [conan-2.33.0-windows-x86_64.zip](https://github.com/conan-io/conan/releases/download/2.33.0/conan-2.33.0-windows-x86_64.zip) | 15.2 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **329** distros on [repology.org](https://repology.org/project/conan). **9** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.33.0` | ✅ latest |
+| Fedora rawhide | `2.33.0` | ✅ latest |
+| Nix unstable | `2.32.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.32.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `conan` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -93,4 +104,4 @@ Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:23:48Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:33:54Z._
