@@ -2,117 +2,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: 0.29.2
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: conan
-  binname: conan
-  visiblename: Conan
-  version: 0.30.1
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: conan
-  binname: conan
-  visiblename: Conan
-  version: 0.30.2
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: conan
-  binname: conan
-  visiblename: Conan
-  version: 0.30.3
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: conan
-  binname: conan
-  visiblename: Conan
-  version: 1.2.1
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: conan
-  binname: conan
-  visiblename: Conan
-  version: 1.0.3
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: conan
-  binname: conan
-  visiblename: Conan
-  version: 1.3.3
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: conan
-  binname: conan
-  visiblename: Conan
-  version: 1.0.4
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: conan
-  binname: conan
-  visiblename: Conan
-  version: "1.1"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: conan
-  binname: conan
-  visiblename: Conan
   version: 1.4.2
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: conan
-  binname: conan
-  visiblename: Conan
-  version: 1.1.1
   origversion: null
   status: legacy
   licenses:
@@ -134,7 +24,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: "0.28"
+  version: 1.4.4
   origversion: null
   status: legacy
   licenses:
@@ -145,7 +35,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: 0.28.1
+  version: 1.4.5
   origversion: null
   status: legacy
   licenses:
@@ -156,7 +46,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: "0.29"
+  version: 1.5.1
   origversion: null
   status: legacy
   licenses:
@@ -167,7 +57,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: "1.2"
+  version: 1.5.2
   origversion: null
   status: legacy
   licenses:
@@ -178,7 +68,62 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: 0.29.1
+  version: "1.6"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: conan
+  binname: conan
+  visiblename: Conan
+  version: 0.22.3
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: conan
+  binname: conan
+  visiblename: Conan
+  version: "0.24"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: conan
+  binname: conan
+  visiblename: Conan
+  version: 1.3.3
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: conan
+  binname: conan
+  visiblename: Conan
+  version: "0.25"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: conan
+  binname: conan
+  visiblename: Conan
+  version: 0.25.1
   origversion: null
   status: legacy
   licenses:
@@ -265,6 +210,17 @@
     - jkl@aur
   licenses:
     - MIT
+- repo: npackd_stable
+  srcname: conan
+  binname: conan
+  visiblename: Conan
+  version: "0.26"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT
+  categories:
+    - Development
 - repo: artix
   subrepo: galaxy
   srcname: conan
@@ -284,20 +240,6 @@
   status: outdated
   summary: Decentralized, open-source (MIT), C/C++ package manager.
 - repo: fedora_39
-  subrepo: updates
-  srcname: conan
-  binnames:
-    - conan
-  visiblename: conan
-  version: 2.8.1
-  origversion: 2.8.1-1.fc39
-  status: outdated
-  summary: Open-source C/C++ package manager
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: release
   srcname: conan
   binnames:
@@ -306,6 +248,20 @@
   version: 2.0.8
   origversion: 2.0.8-2.fc39
   status: legacy
+  summary: Open-source C/C++ package manager
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: updates
+  srcname: conan
+  binnames:
+    - conan
+  visiblename: conan
+  version: 2.8.1
+  origversion: 2.8.1-1.fc39
+  status: outdated
   summary: Open-source C/C++ package manager
   licenses:
     - MIT
@@ -368,20 +324,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: release
-  srcname: conan
-  binnames:
-    - conan
-  visiblename: conan
-  version: 2.14.0
-  origversion: 2.14.0-1.fc42
-  status: legacy
-  summary: Open-source C/C++ package manager
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: updates
   srcname: conan
   binnames:
@@ -395,15 +337,15 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_43
-  subrepo: updates
+- repo: fedora_42
+  subrepo: release
   srcname: conan
   binnames:
     - conan
   visiblename: conan
-  version: 2.22.1
-  origversion: 2.22.1-1.fc43
-  status: outdated
+  version: 2.14.0
+  origversion: 2.14.0-1.fc42
+  status: legacy
   summary: Open-source C/C++ package manager
   licenses:
     - MIT
@@ -423,6 +365,20 @@
     - MIT
   categories:
     - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: conan
+  binnames:
+    - conan
+  visiblename: conan
+  version: 2.22.1
+  origversion: 2.22.1-1.fc43
+  status: outdated
+  summary: Open-source C/C++ package manager
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: fedora_44
   subrepo: release
   srcname: conan
@@ -437,15 +393,26 @@
     - MIT
   categories:
     - Unspecified
+- repo: npackd_stable
+  srcname: conan
+  binname: conan
+  visiblename: Conan
+  version: 0.26.1
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT
+  categories:
+    - Development
 - repo: fedora_rawhide
   subrepo: development
   srcname: conan
   binnames:
     - conan
   visiblename: conan
-  version: 2.33.0
-  origversion: 2.33.0-2.fc46
-  status: outdated
+  version: 2.34.0
+  origversion: 2.34.0-1.fc46
+  status: newest
   summary: Open-source C/C++ package manager
   licenses:
     - MIT
@@ -519,17 +486,6 @@
     - MIT
   categories:
     - dev-util
-- repo: nix_stable_24_11
-  srcname: conan
-  visiblename: conan
-  version: 2.9.1
-  origversion: null
-  status: outdated
-  summary: Decentralized and portable C/C++ package manager
-  maintainers:
-    - r95g10@gmail.com
-  licenses:
-    - MIT
 - repo: gentoo
   srcname: dev-util/conan
   visiblename: dev-util/conan
@@ -555,9 +511,9 @@
 - repo: homebrew
   srcname: conan
   visiblename: conan
-  version: 2.33.0
+  version: 2.34.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Distributed, open source, package manager for C/C++
 - repo: homebrew
   srcname: conan
@@ -682,6 +638,17 @@
     - r95g10@gmail.com
   licenses:
     - MIT
+- repo: nix_stable_24_11
+  srcname: conan
+  visiblename: conan
+  version: 2.9.1
+  origversion: null
+  status: outdated
+  summary: Decentralized and portable C/C++ package manager
+  maintainers:
+    - r95g10@gmail.com
+  licenses:
+    - MIT
 - repo: nix_stable_25_05
   srcname: conan
   visiblename: conan
@@ -752,7 +719,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: 0.22.3
+  version: "0.28"
   origversion: null
   status: legacy
   licenses:
@@ -763,7 +730,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: "0.24"
+  version: 0.28.1
   origversion: null
   status: legacy
   licenses:
@@ -774,7 +741,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: "0.25"
+  version: "0.29"
   origversion: null
   status: legacy
   licenses:
@@ -785,7 +752,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: 0.25.1
+  version: 0.29.1
   origversion: null
   status: legacy
   licenses:
@@ -796,7 +763,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: "0.26"
+  version: 0.29.2
   origversion: null
   status: legacy
   licenses:
@@ -807,7 +774,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: 0.26.1
+  version: 0.30.1
   origversion: null
   status: legacy
   licenses:
@@ -818,7 +785,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: 1.4.4
+  version: 0.30.2
   origversion: null
   status: legacy
   licenses:
@@ -829,7 +796,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: 1.4.5
+  version: 0.30.3
   origversion: null
   status: legacy
   licenses:
@@ -840,7 +807,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: 1.5.1
+  version: 1.0.3
   origversion: null
   status: legacy
   licenses:
@@ -851,7 +818,7 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: 1.5.2
+  version: 1.0.4
   origversion: null
   status: legacy
   licenses:
@@ -862,7 +829,40 @@
   srcname: conan
   binname: conan
   visiblename: Conan
-  version: "1.6"
+  version: "1.1"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: conan
+  binname: conan
+  visiblename: Conan
+  version: 1.1.1
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: conan
+  binname: conan
+  visiblename: Conan
+  version: "1.2"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: conan
+  binname: conan
+  visiblename: Conan
+  version: 1.2.1
   origversion: null
   status: legacy
   licenses:
@@ -2514,7 +2514,18 @@
   visiblename: Conan
   version: "2.33"
   origversion: null
-  status: outdated
+  status: legacy
+  licenses:
+    - MIT
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: conan
+  binname: conan
+  visiblename: Conan
+  version: "2.34"
+  origversion: null
+  status: newest
   licenses:
     - MIT
   categories:
@@ -3632,22 +3643,6 @@
     - Development
 - repo: openmamba
   subrepo: base
-  srcname: conan
-  binnames:
-    - conan
-  visiblename: conan
-  version: 2.33.0
-  origversion: 2.33.0-1mamba
-  status: legacy
-  summary: Decentralized, open-source (MIT), C/C++ package manager
-  maintainers:
-    - silvan@openmamba.org
-  licenses:
-    - MIT
-  categories:
-    - System/Management
-- repo: openmamba
-  subrepo: devel-makedist
   srcname: conan
   binnames:
     - conan

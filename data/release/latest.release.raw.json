@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1174,
       "digest": "sha256:85c8ce2701ba08be5753e6b9bed962ad35800283dd53f50f11431793a2e8d9eb",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-28T11:55:23Z",
       "updated_at": "2026-10-28T11:55:23Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.34.0/2.34.0-SHA-256.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 659,
       "digest": "sha256:d213ea69f53855385820f5cd3e4306ff75bb7ab27f3498add9cd9dcb16a3a8b4",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-28T11:55:25Z",
       "updated_at": "2026-10-28T11:55:25Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.34.0/2.34.0-SHA-256.txt.asc"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 22900892,
       "digest": "sha256:94d34280e3915535bd73ac9e6896b11a5d0dea31b6c04f8c1c1acf9bf61013a1",
-      "download_count": 10,
+      "download_count": 34,
       "created_at": "2026-10-28T11:54:53Z",
       "updated_at": "2026-10-28T11:54:54Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 22425466,
       "digest": "sha256:56d847ccbffbc1a50879b70768c5dbd56cf7f723285b843215ecc6e649ce94ed",
-      "download_count": 3,
+      "download_count": 15,
       "created_at": "2026-10-28T11:54:55Z",
       "updated_at": "2026-10-28T11:54:56Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-arm64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 27154199,
       "digest": "sha256:1779d4b5fc62697a03bfb24b9ea502faf28cfb1a2801e243c192934446caf255",
-      "download_count": 5,
+      "download_count": 11,
       "created_at": "2026-10-28T11:55:01Z",
       "updated_at": "2026-10-28T11:55:03Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-linux-aarch64.tgz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 27480964,
       "digest": "sha256:655177bf39c901ea6b532e02f55813eb03abaced931b5627307f1c8edc3627b6",
-      "download_count": 36,
+      "download_count": 142,
       "created_at": "2026-10-28T11:54:58Z",
       "updated_at": "2026-10-28T11:55:00Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-linux-x86_64.tgz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 15700625,
       "digest": "sha256:09f06ed0d4a0debb37020698741fdcd6917fe295fe1c6a14878809b23c00fe6c",
-      "download_count": 3,
+      "download_count": 11,
       "created_at": "2026-10-28T11:55:04Z",
       "updated_at": "2026-10-28T11:55:06Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-macos-arm64.tgz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 15336982,
       "digest": "sha256:4d55a8aec484eba2d1f005cd23347c28353b620cd601ed15fa3f39a1b3a2d9d7",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-10-28T11:55:19Z",
       "updated_at": "2026-10-28T11:55:20Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-windows-arm64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 13994314,
       "digest": "sha256:5c5fc0e4090b458457af2398e4c6f8f954163761e0c856715c78bfea05ca6b94",
-      "download_count": 45,
+      "download_count": 59,
       "created_at": "2026-10-28T11:55:12Z",
       "updated_at": "2026-10-28T11:55:13Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-windows-i686-installer.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 13920801,
       "digest": "sha256:e452cf9db22b16940a8ea472d606ae0a60fb0b60bd542b9351352911663baa69",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-10-28T11:55:10Z",
       "updated_at": "2026-10-28T11:55:11Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-windows-i686.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 15310084,
       "digest": "sha256:d161e18eda229ebd5bc86435580c64296c93fa4cd1d03cca455280bb30754fa7",
-      "download_count": 147,
+      "download_count": 359,
       "created_at": "2026-10-28T11:55:16Z",
       "updated_at": "2026-10-28T11:55:17Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-windows-x86_64-installer.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 15695787,
       "digest": "sha256:4e8c75dfb5f9913fe3eec6c0c982986f13041eae6e8c3b116268489b21951232",
-      "download_count": 112,
+      "download_count": 176,
       "created_at": "2026-10-28T11:55:14Z",
       "updated_at": "2026-10-28T11:55:15Z",
       "browser_download_url": "https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-windows-x86_64.zip"
