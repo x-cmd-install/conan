@@ -24,6 +24,16 @@ x install conan
 | Dockerfile | 11 | 0 | 0 | 1 |
 | Yaml | 11 | 2 | 0 | 1 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **5.7 / 10**
+
+评分最低的几项:
+
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/conan-io/conan>
@@ -38,22 +48,22 @@ x install conan
 
 ## 流行度
 
-- **Star**: 9,553 · **Fork**: 1,135 · **开放 issue**: 12,508 · **贡献者**: 444
+- **Star**: 9,554 · **Fork**: 1,136 · **开放 issue**: 12,509 · **贡献者**: 444
 
 ## 累计统计
 
-- **发布数**: 333 · **已合并 PR**: 6392 · **开放 PR**: 68 · **已关闭 issue**: 12116 · **开放 issue**: 392 · **提交数**: 10017
+- **发布数**: 333 · **已合并 PR**: 6392 · **开放 PR**: 68 · **已关闭 issue**: 12116 · **开放 issue**: 393 · **提交数**: 10017
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 48 | 14 | 17 | 10 | 60 |
-| last60d | 2026-09-03 | 2 | 84 | 17 | 35 | 11 | 110 |
-| 90d | 2026-08-04 | 4 | 110 | 22 | 63 | 13 | 139 |
-| last180d | 2026-05-06 | 9 | 231 | 37 | 178 | 22 | 305 |
-| 360d | 2025-11-07 | 22 | 482 | 45 | 571 | 51 | 645 |
-| last720d | 2024-11-12 | 49 | 1011 | 59 | 1678 | 137 | 1389 |
+| 30d | 2026-10-04 | 1 | 48 | 14 | 17 | 11 | 60 |
+| last60d | 2026-09-04 | 2 | 84 | 16 | 34 | 12 | 110 |
+| 90d | 2026-08-05 | 3 | 109 | 22 | 63 | 14 | 139 |
+| last180d | 2026-05-07 | 9 | 231 | 37 | 175 | 23 | 305 |
+| 360d | 2025-11-08 | 21 | 482 | 45 | 571 | 52 | 645 |
+| last720d | 2024-11-13 | 49 | 1009 | 59 | 1672 | 138 | 1389 |
 
 ## Release 资产
 
@@ -94,4 +104,4 @@ conan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T06:55:57Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T07:46:19Z._

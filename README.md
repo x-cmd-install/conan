@@ -24,6 +24,16 @@ Total: **168,055** lines of code across **1108** files in the top 5 languages.
 | Dockerfile | 11 | 0 | 0 | 1 |
 | Yaml | 11 | 2 | 0 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **5.7 / 10**
+
+Lowest-scoring checks:
+
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## Source
 
 - **Upstream**: <https://github.com/conan-io/conan>
@@ -38,22 +48,22 @@ Total: **168,055** lines of code across **1108** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,553 · **Forks**: 1,135 · **Open issues**: 12,508 · **Contributors**: 444
+- **Stars**: 9,554 · **Forks**: 1,136 · **Open issues**: 12,509 · **Contributors**: 444
 
 ## Totals (cumulative)
 
-- **Releases**: 333 · **Merged PRs**: 6392 · **Open PRs**: 68 · **Closed issues**: 12116 · **Open issues**: 392 · **Commits**: 10017
+- **Releases**: 333 · **Merged PRs**: 6392 · **Open PRs**: 68 · **Closed issues**: 12116 · **Open issues**: 393 · **Commits**: 10017
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 48 | 14 | 17 | 10 | 60 |
-| last60d | 2026-09-03 | 2 | 84 | 17 | 35 | 11 | 110 |
-| 90d | 2026-08-04 | 4 | 110 | 22 | 63 | 13 | 139 |
-| last180d | 2026-05-06 | 9 | 231 | 37 | 178 | 22 | 305 |
-| 360d | 2025-11-07 | 22 | 482 | 45 | 571 | 51 | 645 |
-| last720d | 2024-11-12 | 49 | 1011 | 59 | 1678 | 137 | 1389 |
+| 30d | 2026-10-04 | 1 | 48 | 14 | 17 | 11 | 60 |
+| last60d | 2026-09-04 | 2 | 84 | 16 | 34 | 12 | 110 |
+| 90d | 2026-08-05 | 3 | 109 | 22 | 63 | 14 | 139 |
+| last180d | 2026-05-07 | 9 | 231 | 37 | 175 | 23 | 305 |
+| 360d | 2025-11-08 | 21 | 482 | 45 | 571 | 52 | 645 |
+| last720d | 2024-11-13 | 49 | 1009 | 59 | 1672 | 138 | 1389 |
 
 ## Release assets
 
@@ -94,4 +104,4 @@ Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:55:56Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:46:18Z._
