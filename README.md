@@ -14,11 +14,11 @@ x install conan
 
 ## Code insight
 
-Total: **168,173** lines of code across **1109** files in the top 5 languages.
+Total: **168,189** lines of code across **1109** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 168,101 | 7,270 | 23,810 | 1104 |
+| Python | 168,117 | 7,272 | 23,812 | 1104 |
 | MsBuild | 25 | 0 | 0 | 2 |
 | ForgeConfig | 12 | 0 | 1 | 1 |
 | Dockerfile | 11 | 0 | 0 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.34.0` (2026-10-28)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 9,557 · **Forks**: 1,136 · **Open issues**: 12,511 · **Contributors**: 444
+- **Stars**: 9,559 · **Forks**: 1,136 · **Open issues**: 12,514 · **Contributors**: 444
 
 ## Totals (cumulative)
 
-- **Releases**: 333 · **Merged PRs**: 6398 · **Open PRs**: 66 · **Closed issues**: 12118 · **Open issues**: 393 · **Commits**: 10023
+- **Releases**: 333 · **Merged PRs**: 6401 · **Open PRs**: 64 · **Closed issues**: 12119 · **Open issues**: 395 · **Commits**: 10026
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 53 | 12 | 16 | 9 | 66 |
-| last60d | 2026-09-06 | 2 | 90 | 14 | 36 | 11 | 116 |
-| 90d | 2026-08-07 | 3 | 111 | 20 | 65 | 12 | 145 |
-| last180d | 2026-05-09 | 9 | 236 | 35 | 172 | 22 | 311 |
-| 360d | 2025-11-10 | 21 | 488 | 43 | 570 | 52 | 651 |
-| last720d | 2024-11-15 | 49 | 1015 | 57 | 1671 | 138 | 1394 |
+| 30d | 2026-10-07 | 1 | 54 | 10 | 13 | 11 | 69 |
+| last60d | 2026-09-07 | 2 | 90 | 12 | 35 | 13 | 119 |
+| 90d | 2026-08-08 | 3 | 114 | 17 | 66 | 14 | 148 |
+| last180d | 2026-05-10 | 9 | 238 | 31 | 172 | 24 | 314 |
+| 360d | 2025-11-11 | 21 | 489 | 41 | 566 | 54 | 654 |
+| last720d | 2024-11-16 | 49 | 1016 | 55 | 1670 | 140 | 1397 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:24:40Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:22:38Z._
