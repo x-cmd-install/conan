@@ -14,11 +14,11 @@ x install conan
 
 ## Code insight
 
-Total: **168,388** lines of code across **1111** files in the top 5 languages.
+Total: **168,539** lines of code across **1111** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 168,316 | 7,283 | 23,837 | 1106 |
+| Python | 168,467 | 7,295 | 23,859 | 1106 |
 | MsBuild | 25 | 0 | 0 | 2 |
 | ForgeConfig | 12 | 0 | 1 | 1 |
 | Dockerfile | 11 | 0 | 0 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.34.0` (2026-10-28)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-17
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 9,564 · **Forks**: 1,140 · **Open issues**: 12,526 · **Contributors**: 444
+- **Stars**: 9,567 · **Forks**: 1,141 · **Open issues**: 12,531 · **Contributors**: 445
 
 ## Totals (cumulative)
 
-- **Releases**: 333 · **Merged PRs**: 6408 · **Open PRs**: 70 · **Closed issues**: 12128 · **Open issues**: 398 · **Commits**: 10033
+- **Releases**: 333 · **Merged PRs**: 6414 · **Open PRs**: 70 · **Closed issues**: 12133 · **Open issues**: 398 · **Commits**: 10039
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 38 | 17 | 11 | 12 | 49 |
-| last60d | 2026-09-17 | 2 | 85 | 19 | 33 | 16 | 112 |
-| 90d | 2026-08-18 | 3 | 108 | 22 | 62 | 18 | 145 |
-| last180d | 2026-05-20 | 9 | 232 | 36 | 154 | 28 | 301 |
-| 360d | 2025-11-21 | 21 | 474 | 46 | 538 | 52 | 618 |
-| last720d | 2024-11-26 | 48 | 1006 | 60 | 1647 | 143 | 1387 |
+| 30d | 2026-10-18 | 1 | 43 | 17 | 16 | 12 | 57 |
+| last60d | 2026-09-18 | 2 | 91 | 19 | 38 | 16 | 120 |
+| 90d | 2026-08-19 | 3 | 114 | 21 | 67 | 18 | 153 |
+| last180d | 2026-05-21 | 9 | 237 | 36 | 159 | 28 | 309 |
+| 360d | 2025-11-22 | 21 | 480 | 46 | 541 | 52 | 626 |
+| last720d | 2024-11-27 | 48 | 1009 | 60 | 1648 | 143 | 1392 |
 
 ## Release assets
 
@@ -86,7 +86,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **329** distros on [repology.org](https://repology.org/project/conan). **9** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+Reported by **330** distros on [repology.org](https://repology.org/project/conan). **9** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -104,4 +104,4 @@ Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:08:20Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:09:30Z._
