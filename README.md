@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,568 · **Forks**: 1,140 · **Open issues**: 12,540 · **Contributors**: 447
+- **Stars**: 9,568 · **Forks**: 1,140 · **Open issues**: 12,541 · **Contributors**: 447
 
 ## Totals (cumulative)
 
-- **Releases**: 333 · **Merged PRs**: 6434 · **Open PRs**: 69 · **Closed issues**: 12144 · **Open issues**: 396 · **Commits**: 10059
+- **Releases**: 333 · **Merged PRs**: 6434 · **Open PRs**: 69 · **Closed issues**: 12144 · **Open issues**: 397 · **Commits**: 10059
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 60 | 17 | 23 | 12 | 81 |
-| last60d | 2026-09-22 | 2 | 107 | 19 | 44 | 17 | 144 |
-| 90d | 2026-08-23 | 3 | 133 | 21 | 74 | 19 | 177 |
-| last180d | 2026-05-25 | 9 | 253 | 35 | 165 | 29 | 333 |
-| 360d | 2025-11-26 | 20 | 494 | 44 | 537 | 50 | 650 |
-| last720d | 2024-12-01 | 48 | 1028 | 59 | 1650 | 144 | 1405 |
+| 30d | 2026-10-23 | 1 | 55 | 17 | 22 | 11 | 53 |
+| last60d | 2026-09-23 | 2 | 107 | 19 | 43 | 18 | 120 |
+| 90d | 2026-08-24 | 3 | 132 | 21 | 72 | 19 | 165 |
+| last180d | 2026-05-26 | 9 | 253 | 35 | 163 | 29 | 320 |
+| 360d | 2025-11-27 | 20 | 493 | 44 | 532 | 51 | 643 |
+| last720d | 2024-12-02 | 48 | 1028 | 59 | 1648 | 145 | 1405 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:31:01Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:17:10Z._
