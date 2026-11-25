@@ -14,11 +14,11 @@ x install conan
 
 ## Code insight
 
-Total: **169,325** lines of code across **1114** files in the top 5 languages.
+Total: **169,359** lines of code across **1116** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 169,253 | 7,363 | 23,966 | 1109 |
+| Python | 169,287 | 7,363 | 23,983 | 1111 |
 | MsBuild | 25 | 0 | 0 | 2 |
 | ForgeConfig | 12 | 0 | 1 | 1 |
 | Dockerfile | 11 | 0 | 0 | 1 |
@@ -26,13 +26,13 @@ Total: **169,325** lines of code across **1114** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.7 / 10**
+Overall score: **5.9 / 10**
 
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.34.0` (2026-10-28)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 9,567 · **Forks**: 1,140 · **Open issues**: 12,541 · **Contributors**: 447
+- **Stars**: 9,570 · **Forks**: 1,141 · **Open issues**: 12,541 · **Contributors**: 447
 
 ## Totals (cumulative)
 
-- **Releases**: 333 · **Merged PRs**: 6436 · **Open PRs**: 67 · **Closed issues**: 12146 · **Open issues**: 395 · **Commits**: 10061
+- **Releases**: 333 · **Merged PRs**: 6437 · **Open PRs**: 68 · **Closed issues**: 12147 · **Open issues**: 394 · **Commits**: 10062
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 57 | 15 | 24 | 9 | 55 |
-| last60d | 2026-09-25 | 2 | 104 | 17 | 45 | 16 | 122 |
-| 90d | 2026-08-26 | 3 | 133 | 19 | 68 | 17 | 167 |
-| last180d | 2026-05-28 | 9 | 252 | 33 | 160 | 27 | 322 |
-| 360d | 2025-11-29 | 20 | 493 | 42 | 533 | 49 | 645 |
-| last720d | 2024-12-04 | 46 | 1026 | 57 | 1640 | 142 | 1400 |
+| 30d | 2026-10-26 | 1 | 54 | 15 | 25 | 8 | 57 |
+| last60d | 2026-09-26 | 2 | 105 | 18 | 46 | 15 | 124 |
+| 90d | 2026-08-27 | 3 | 134 | 20 | 68 | 16 | 169 |
+| last180d | 2026-05-29 | 8 | 247 | 34 | 160 | 26 | 324 |
+| 360d | 2025-11-30 | 20 | 494 | 43 | 534 | 48 | 647 |
+| last720d | 2024-12-05 | 45 | 1025 | 58 | 1636 | 141 | 1399 |
 
 ## Release assets
 
@@ -84,17 +84,6 @@ Lowest-scoring checks:
 | [conan-2.34.0-windows-x86_64-installer.exe](https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-windows-x86_64-installer.exe) | 14.6 MiB | `native/win/x64` |
 | [conan-2.34.0-windows-x86_64.zip](https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-windows-x86_64.zip) | 15.0 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **330** distros on [repology.org](https://repology.org/project/conan). **9** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.34.0` | ✅ latest |
-| Fedora rawhide | `2.34.0` | ✅ latest |
-| Nix unstable | `2.32.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.33.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `conan` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -104,4 +93,4 @@ Install metadata for conan lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:32:03Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:03:00Z._

@@ -14,11 +14,11 @@ x install conan
 
 ## 代码洞察
 
-合计: **169,325** 行代码（覆盖前 5 种语言、共 **1114** 个文件）。
+合计: **169,359** 行代码（覆盖前 5 种语言、共 **1116** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 169,253 | 7,363 | 23,966 | 1109 |
+| Python | 169,287 | 7,363 | 23,983 | 1111 |
 | MsBuild | 25 | 0 | 0 | 2 |
 | ForgeConfig | 12 | 0 | 1 | 1 |
 | Dockerfile | 11 | 0 | 0 | 1 |
@@ -26,13 +26,13 @@ x install conan
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.7 / 10**
+总评分: **5.9 / 10**
 
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install conan
 ## 发布
 
 - **最新版本**: `2.34.0` (2026-10-28)
-- **最近提交**: 2026-11-24
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 9,567 · **Fork**: 1,140 · **开放 issue**: 12,541 · **贡献者**: 447
+- **Star**: 9,570 · **Fork**: 1,141 · **开放 issue**: 12,541 · **贡献者**: 447
 
 ## 累计统计
 
-- **发布数**: 333 · **已合并 PR**: 6436 · **开放 PR**: 67 · **已关闭 issue**: 12146 · **开放 issue**: 395 · **提交数**: 10061
+- **发布数**: 333 · **已合并 PR**: 6437 · **开放 PR**: 68 · **已关闭 issue**: 12147 · **开放 issue**: 394 · **提交数**: 10062
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 57 | 15 | 24 | 9 | 55 |
-| last60d | 2026-09-25 | 2 | 104 | 17 | 45 | 16 | 122 |
-| 90d | 2026-08-26 | 3 | 133 | 19 | 68 | 17 | 167 |
-| last180d | 2026-05-28 | 9 | 252 | 33 | 160 | 27 | 322 |
-| 360d | 2025-11-29 | 20 | 493 | 42 | 533 | 49 | 645 |
-| last720d | 2024-12-04 | 46 | 1026 | 57 | 1640 | 142 | 1400 |
+| 30d | 2026-10-26 | 1 | 54 | 15 | 25 | 8 | 57 |
+| last60d | 2026-09-26 | 2 | 105 | 18 | 46 | 15 | 124 |
+| 90d | 2026-08-27 | 3 | 134 | 20 | 68 | 16 | 169 |
+| last180d | 2026-05-29 | 8 | 247 | 34 | 160 | 26 | 324 |
+| 360d | 2025-11-30 | 20 | 494 | 43 | 534 | 48 | 647 |
+| last720d | 2024-12-05 | 45 | 1025 | 58 | 1636 | 141 | 1399 |
 
 ## Release 资产
 
@@ -84,17 +84,6 @@ x install conan
 | [conan-2.34.0-windows-x86_64-installer.exe](https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-windows-x86_64-installer.exe) | 14.6 MiB | `native/win/x64` |
 | [conan-2.34.0-windows-x86_64.zip](https://github.com/conan-io/conan/releases/download/2.34.0/conan-2.34.0-windows-x86_64.zip) | 15.0 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/conan) 上共有 **330** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**24** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.34.0` | ✅ latest |
-| Fedora rawhide | `2.34.0` | ✅ latest |
-| Nix unstable | `2.32.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.33.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 conan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `conan` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -104,4 +93,4 @@ conan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:32:03Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:03:00Z._
